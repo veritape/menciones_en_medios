@@ -1,5 +1,6 @@
 # Menciones a Veritape en medios periodísticos
 
+* 2014-08-06. **Los hallazgos de Verita (II)**. <http://larepublica.pe/blogs/pasado/2014/08/06/los-hallazgos-de-verita-ii/>
 * 2014-08-05. **Padre e hijo en lista la de deudores judiciales**. <http://diariocorreo.pe/ultimas/noticias/10476463/ciudad/padre-e-hijo-en-lista-la-de-deudores-judicia>
 * 2014-08-05. **Cien candidatos tienen deudas con el Estado por delitos de corrupción**. <http://www.larepublica.pe/05-08-2014/cien-candidatos-tienen-deudas-con-el-estado-por-delitos-de-corrupcion>
 * 2014-08-05. **Candidatos del sur que hacen perro muerto con las reparaciones civiles**. <http://www.larepublica.pe/05-08-2014/candidatos-que-hacen-perro-muerto-con-las-reparaciones>
