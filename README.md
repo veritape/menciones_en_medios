@@ -10,6 +10,7 @@
 * 2014-07-25. **El gran movimiento**. <http://www.larepublica.pe/columnistas/la-mitadmasuno/el-gran-movimiento-25-07-2014>
 * 2014-07-23. **Operación limpieza**. <http://www.larepublica.pe/politica/editorial-23-07-2014-0>
 * 2014-07-21. **Revelan que 1400 candidatos regionales tienen sentencias penales y civiles**. <http://www.panamericana.pe/buenosdiasperu/politica/160528-revelan-1400-candidatos-regionales-sentencias-penales-civiles>
+* 2014-07-20. **Más de mil candidatos municipales y regionales han sido condenados por la justicia**. <http://www.frecuencialatina.com/sinmediastintas/noticias/mas-de-mil-candidatos-municipales-y-regionales-han-sido-condenados-por-la-justicia>
 * 2014-07-20. **Transparencia: Postulan condenados por corrupción y hasta homicidio**. <http://www.rpp.com.pe/2014-07-20-transparencia-postulan-condenados-por-corrupcion-y-hasta-homicidio-noticia_709437.html>
 * 2014-07-18. **Transparencia: 1,400 candidatos tienen sentencias civiles y penales en el país**. <http://www.andina.com.pe/agencia/noticia-transparencia-1400-candidatos-tienen-sentencias-civiles-y-penales-el-pais-515175.aspx>
 * 2014-07-16. **Verita, el terror de los candidatos 2014**. <http://diario16.pe/noticia/50663-verita-terror-candidatos-2014>
