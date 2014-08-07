@@ -1,5 +1,6 @@
 # Menciones a Veritape en medios periodísticos
 
+* 2014-08-06. **Elecciones 2014: cerca de 1,400 candidatos tendrían antecedentes judiciales**. <http://canaln.pe/actualidad/elecciones-2014-cerca-1400-candidatos-tendrian-antecedentes-judiciales-n148154>
 * 2014-08-06. **Los hallazgos de Verita (II)**. <http://www.larepublica.pe/columnistas/ya-lo-pasado-pasado/los-hallazgos-de-verita-ii-06-08-2014>
 * 2014-08-05. **Padre e hijo en lista la de deudores judiciales**. <http://diariocorreo.pe/ultimas/noticias/10476463/ciudad/padre-e-hijo-en-lista-la-de-deudores-judicia>
 * 2014-08-05. **Cien candidatos tienen deudas con el Estado por delitos de corrupción**. <http://www.larepublica.pe/05-08-2014/cien-candidatos-tienen-deudas-con-el-estado-por-delitos-de-corrupcion>
