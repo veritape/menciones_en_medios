@@ -1,12 +1,12 @@
 # Menciones a Veritape en medios periodísticos
 
-* 2014-08-06. **Los hallazgos de Verita (II)**. <http://larepublica.pe/blogs/pasado/2014/08/06/los-hallazgos-de-verita-ii/>
+* 2014-08-06. **Los hallazgos de Verita (II)**. <http://www.larepublica.pe/columnistas/ya-lo-pasado-pasado/los-hallazgos-de-verita-ii-06-08-2014>
 * 2014-08-05. **Padre e hijo en lista la de deudores judiciales**. <http://diariocorreo.pe/ultimas/noticias/10476463/ciudad/padre-e-hijo-en-lista-la-de-deudores-judicia>
 * 2014-08-05. **Cien candidatos tienen deudas con el Estado por delitos de corrupción**. <http://www.larepublica.pe/05-08-2014/cien-candidatos-tienen-deudas-con-el-estado-por-delitos-de-corrupcion>
 * 2014-08-05. **Candidatos del sur que hacen perro muerto con las reparaciones civiles**. <http://www.larepublica.pe/05-08-2014/candidatos-que-hacen-perro-muerto-con-las-reparaciones>
 * 2014-08-04. **De un promedio de 100 candidatos que no pagaron sus reparaciones civiles 6 pertenecen a Puno**. <http://www.radiopublica.pe/201408047800/de-un-promedio-de-100-candidatos-que-no-pagaron-sus-reparaciones-civiles-6-pertenecen-a-puno.html>
 * 2014-08-01. **Existen 1395 candidatos que declaran tener sentencias judiciales**. <http://www.tvperu.gob.pe/noticias/politica/elecciones/61892-existen-1395-candidatos-a-los-gobiernos-municipales-y-regionales-que-declaran-tener-sentencias-judiciales.html>
-* 2014-07-29. **Los hallazgos de Verita (I)**. <http://larepublica.pe/blogs/pasado/2014/07/29/los-hallazgos-de-verita-i/>
+* 2014-07-29. **Los hallazgos de Verita (I)**. <http://www.larepublica.pe/columnistas/ya-lo-pasado-pasado/los-hallazgos-de-verita-i-30-07-2014>
 * 2014-07-27. **Un lunar en la hoja de vida**. <http://www.larepublica.pe/columnistas/observador/un-lunar-en-la-hoja-de-vida-27-07-2014>
 * 2014-07-25. **El gran movimiento**. <http://www.larepublica.pe/columnistas/la-mitadmasuno/el-gran-movimiento-25-07-2014>
 * 2014-07-23. **Operación limpieza**. <http://www.larepublica.pe/politica/editorial-23-07-2014-0>
