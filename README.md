@@ -1,5 +1,6 @@
 # Menciones a Veritape en medios periodísticos
 
+* 2014-08-08. **Transparencia pide a partidos políticos mayor ´filtro´ a candidatos**. <http://www.rpp.com.pe/2014-08-08-transparencia-pide-a-partidos-politicos-mayor-filtro-a-candidatos-noticia_714800.html>
 * 2014-08-06. **Elecciones 2014: cerca de 1,400 candidatos tendrían antecedentes judiciales**. Canal N. <https://www.youtube.com/watch?v=EQicM7Pmg-0>
 * 2014-08-06. **Los hallazgos de Verita (II)**. <http://www.larepublica.pe/columnistas/ya-lo-pasado-pasado/los-hallazgos-de-verita-ii-06-08-2014>
 * 2014-08-05. **Padre e hijo en lista la de deudores judiciales**. <http://diariocorreo.pe/ultimas/noticias/10476463/ciudad/padre-e-hijo-en-lista-la-de-deudores-judicia>
