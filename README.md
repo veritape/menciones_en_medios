@@ -1,6 +1,7 @@
 # Menciones a Veritape en medios periodísticos
 
-* 2014-08.09. **Partidos aseguran no conocer antecedentes de sus candidatos**. <http://elcomercio.pe/peru/pais/partidos-aseguran-no-conocer-antecedentes-sus-candidatos-noticia-1748741>
+* 2014-08-10. **Obligación de retirar**. <http://www.larepublica.pe/politica/editorial-10-08-2014>
+* 2014-08-09. **Partidos aseguran no conocer antecedentes de sus candidatos**. <http://elcomercio.pe/peru/pais/partidos-aseguran-no-conocer-antecedentes-sus-candidatos-noticia-1748741>
 * 2014-08-09. **Bribones en campaña**. <http://diariocorreo.pe/opinion/noticias/10518169/bribones-en-campana>
 * 2014-08-09. **2 mil 131 candidatos figuran en el Registro Nacional de Condenas**. <http://www.larepublica.pe/09-08-2014/2-mil-131-candidatos-figuran-en-el-registro-nacional-de-condenas>
 * 2014-08-08. **Los partidos políticos**. <http://www.gatoencerrado.net/store/noticias/86/86208/detalle.htm>
