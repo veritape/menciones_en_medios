@@ -5,6 +5,7 @@
 * 2014-08-09. **Partidos aseguran no conocer antecedentes de sus candidatos**. <http://elcomercio.pe/peru/pais/partidos-aseguran-no-conocer-antecedentes-sus-candidatos-noticia-1748741>
 * 2014-08-09. **Bribones en campaña**. <http://diariocorreo.pe/opinion/noticias/10518169/bribones-en-campana>
 * 2014-08-09. **2 mil 131 candidatos figuran en el Registro Nacional de Condenas**. <http://www.larepublica.pe/09-08-2014/2-mil-131-candidatos-figuran-en-el-registro-nacional-de-condenas>
+* 2014-08-08. **Programa Buenas Noches, ATV.**. <http://www.youtube.com/watch?v=GU1UZFphTqE>
 * 2014-08-08. **Los partidos políticos**. <http://www.gatoencerrado.net/store/noticias/86/86208/detalle.htm>
 * 2014-08-08. **Transparencia pide a partidos políticos mayor ´filtro´ a candidatos**. <http://www.rpp.com.pe/2014-08-08-transparencia-pide-a-partidos-politicos-mayor-filtro-a-candidatos-noticia_714800.html>
 * 2014-08-06. **Elecciones 2014: cerca de 1,400 candidatos tendrían antecedentes judiciales**. Canal N. <https://www.youtube.com/watch?v=EQicM7Pmg-0>
