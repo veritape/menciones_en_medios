@@ -1,5 +1,8 @@
 # Menciones a Veritape en medios periodísticos
 
+* 2014-08-18. **Violadores y ladrones también postulan en estas elecciones**. <http://www.larepublica.pe/18-08-2014/violadores-y-ladrones-tambien-postulan-en-estas-elecciones>
+* 2014-08-17. **Tiempo de hackers**. <http://www.larepublica.pe/17-08-2014/tiempo-de-hackers>
+* 2014-08-17. **Candidatos golondrinos, deudores alimentarios y con sentencias por terrorismo postulan en las elecciones**. <http://www.larepublica.pe/17-08-2014/candidatos-golondrinos-deudores-alimentarios-y-con-sentencias-por-terrorismo-postulan-en-las-eleccio>
 * 2014-08-13. **Los hallazgos de Verita (III)**. <http://www.larepublica.pe/columnistas/ya-lo-pasado-pasado/los-hallazgos-de-verita-iii-13-08-2014>
 * 2014-08-11. **Candidatos con prontuario: espeluznantes hojas de vida en las elecciones**. <http://www.panamericana.pe/panorama/politica/162185-candidatos-prontuario-espeluznantes-hojas-vida-elecciones>
 * 2014-08-10. **Obligación de retirar**. <http://www.larepublica.pe/politica/editorial-10-08-2014>
