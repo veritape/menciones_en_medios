@@ -1,5 +1,7 @@
 # Menciones a Veritape en medios periodísticos
 
+* 2014-08-26. **PuntoEdu: Iniciativas de prensa independiente y periodismo de datos**. <http://puntoedu.pucp.edu.pe/noticias/prensa-independiente-y-periodismo-de-datos/>
+* 2014-08-25. **El pasado delictivo de cientos de candidatos sale a la luz en Perú**. <http://internacional.elpais.com/internacional/2014/08/23/actualidad/1408753844_463399.html>
 * 2014-08-18. **Violadores y ladrones también postulan en estas elecciones**. <http://www.larepublica.pe/18-08-2014/violadores-y-ladrones-tambien-postulan-en-estas-elecciones>
 * 2014-08-17. **Tiempo de hackers**. <http://www.larepublica.pe/17-08-2014/tiempo-de-hackers>
 * 2014-08-17. **Candidatos golondrinos, deudores alimentarios y con sentencias por terrorismo postulan en las elecciones**. <http://www.larepublica.pe/17-08-2014/candidatos-golondrinos-deudores-alimentarios-y-con-sentencias-por-terrorismo-postulan-en-las-eleccio>
